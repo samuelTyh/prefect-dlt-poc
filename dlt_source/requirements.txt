@@ -1,0 +1,2 @@
+google-api-python-client
+dlt[snowflake]>=0.5.1
